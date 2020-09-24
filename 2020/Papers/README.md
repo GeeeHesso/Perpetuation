@@ -5,7 +5,7 @@ Contains the papers, presentations and other documents relative to the group's s
 ### Publications
 * [Melvyn Tyloo, Robin Delabays, Philippe Jacquod, *Network Reconstruction with Ambient Noise*](https://github.com/GeeeHesso/Perpetuation/tree/master/2020/Papers/ambient_noise)
 
-* [Fabian Baumann, Igor. M Sokolov, Melvyn Tyloo, * A Laplacian Approach to Stubborn Agents and their Role in Opinion Formation on Influence Networks*](https://github.com/GeeeHesso/Perpetuation/tree/master/2020/Papers/physica_a)
+* [Fabian Baumann, Igor. M Sokolov, Melvyn Tyloo, *A Laplacian Approach to Stubborn Agents and their Role in Opinion Formation on Influence Networks*](https://github.com/GeeeHesso/Perpetuation/tree/master/2020/Papers/physica_a)
 
 * [Melvyn Tyloo, Philippe Jacquod, *Primary Control Effort under Fluctuating Power Generation in Realistic High-Voltage Power Networks*](https://github.com/GeeeHesso/Perpetuation/tree/master/2020/Papers/LCSS)
 
