@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # This script takes the information of the README on the last level and copies it into the yearly README and general README
 
-years = [2021, 2020, 2019, 2018, 2017, 2016, 2015, 2014, 2013]
+years = [2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2014, 2013]
 
 
 f_papers = '/Papers/README.md'
